@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yujiahu415
 - 👀 I’m interested in Neuroscience.
-- 🌱 I’m currently learning python programing.
+- 🌱 I'm developing software tool for neuroscience research.
 - 💞️ I’m looking to collaborate on developing computational tools in Neuroscience.
 - 📫 How to reach me: henryhu@umich.edu or yujiahu415@gmail.com
 
