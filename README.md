@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neuroscience.
 - 🌱 I'm developing software tool for neuroscience research.
 - 💞️ I’m looking to collaborate on developing computational tools in Neuroscience.
-- 📫 How to reach me: henryhu@umich.edu or yujiahu415@gmail.com
+- 📫 How to reach me: yujiahu415@gmail.com
 
 <!---
 yujiahu415/yujiahu415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
